@@ -1,5 +1,7 @@
 🚗 Proje Adı: FleetFlow – Akıllı Araç ve Servis Operasyonları Portalı
 🔍 Proje Genel Bakış
+https://rococo-elf-d1dc9d.netlify.app/
+
 ![image](https://github.com/user-attachments/assets/97e4d440-7924-4048-b635-3a5672ee77e5)
 
 FleetFlow, büyük ve orta ölçekli organizasyonların karmaşık araç envanterlerini ve bakım iş akışlarını yönetmek için tasarlanmış modern, AI destekli bir araç yönetimi ve servis koordinasyon platformudur. Araç takibi, servis randevu planlaması ve gerçek zamanlı operasyonel analizleri sorunsuz bir şekilde sunar. Tüm bu özellikler, ölçeklenebilir bir mikroservis mimarisiyle inşa edilmiştir.
